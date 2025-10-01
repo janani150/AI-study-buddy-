@@ -26,6 +26,15 @@ To get started with the AI Study Buddy, follow these steps:
    pip install -r requirements.txt
    ```
 
+# Hugging Face Model 🤗
+
+| File                      | Model Name                     | Purpose                               |
+|---------------------------|--------------------------------|---------------------------------------|
+| summiarizer.py            | google/flan-t5-small           | Summarization                         |
+| simpleexplanation.py      | bigscience/bloomz-560m         | Topic explanation generation          |
+| prompt.py                 | google/flan-t5-base            | Quiz question generation              |
+
+
 ## Usage 🚀
 
 To run the application, use the following command:
