@@ -1,0 +1,11 @@
+# Flask for backend
+Flask==2.3.3
+
+# Hugging Face Transformers for AI pipelines
+transformers==4.46.1
+
+# PyTorch as backend for Transformers
+torch==2.2.0
+
+# Optional: For faster requests in web APIs
+requests==2.32.0
