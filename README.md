@@ -1,4 +1,4 @@
-# AI-study-buddy
+
 
 # AI Study Buddy 🤖📚
 
@@ -36,9 +36,6 @@ python app.py
 You can interact with the AI by sending requests to the back-end service.
 
 
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact 📫
 
