@@ -1,1 +1,1 @@
-# AI-study-buddy-
+# AI-study-buddy
