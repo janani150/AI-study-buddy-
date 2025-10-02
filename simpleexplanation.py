@@ -1,8 +1,8 @@
 from transformers import pipeline
 
-# Initialize the pipeline with bigscience/bloomz-560m
+# Initialize the pipeline with google/flan-t5-base
 try:
-    explainer = pipeline("text2text-generation", model="bigscience/bloomz-560m")
+    explainer = pipeline("text2text-generation", model="google/flan-t5-base")
 
 except Exception as e:
     print(f"Error loading model: {e}")
