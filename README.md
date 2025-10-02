@@ -31,7 +31,7 @@ To get started with the AI Study Buddy, follow these steps:
 | File                      | Model Name                     | Purpose                               |
 |---------------------------|--------------------------------|---------------------------------------|
 | summiarizer.py            | google/flan-t5-small           | Summarization                         |
-| simpleexplanation.py      | bigscience/bloomz-560m         | Topic explanation generation          |
+| simpleexplanation.py      | google/flan-t5-base            | Topic explanation generation          |
 | prompt.py                 | google/flan-t5-base            | Quiz question generation              |
 
 
