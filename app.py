@@ -5,7 +5,7 @@ from prompt import generate_quiz
 
 
 
-# ✅ create Flask app FIRST
+# create Flask app FIRST
 app = Flask(__name__)
 
 @app.route("/")
